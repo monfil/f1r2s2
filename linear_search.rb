@@ -38,4 +38,4 @@ p linear_search(29, random_numbers)
 
 arr = "entretenerse".split('')
 
-p global_linear_search("e", arr)
+p global_linear_search("x", arr)
